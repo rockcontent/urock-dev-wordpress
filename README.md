@@ -9,6 +9,14 @@ Antes de começar, leia nosso [guia de contribuição](CONTRIBUTING.md) para ent
 
 ### Instalando
 
+Clone este repositório dentro da pasta `wp-content` do WordPress
+
+```sh 
+$ git clone https://github.com/rockcontent/urock-dev-wordpress.git
+```
+
+Ative o tema dentro do WP Admin.
+
 ### Contribuindo
 
 #### Issues
