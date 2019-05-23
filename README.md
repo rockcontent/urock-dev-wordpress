@@ -1,9 +1,11 @@
 # Tema do curso Desenvolvedor WordPress
 
 ### Welcome!
-Parabéns por completar o curso Desenvolvedor WordPress da Universidade Rock Content! Este repositório tem o tema que desenvolvemos juntos durante o curso e agora precisamos de ajuda para aprimora-lo.
+Parabéns por completar o curso Desenvolvedor WordPress da Universidade Rock Content! Este repositório tem o tema que desenvolvemos juntos durante o curso e agora precisamos da sua ajuda para aprimora-lo.
 
-Você vai notar que ele estará um pouco diferente de quando assistiu o video. Isso acontece porque o desenvolvimento do tema será colaborativo! Todo aluno que participou do curso poderá sugerir mudanças e resolver bugs :)
+Você vai notar que ele está um pouco diferente de quando assistiu o video. Isso acontece porque o desenvolvimento do tema é colaborativo! 
+
+Todo aluno que finalizou o curso pode sugerir mudanças, desenvolver novas funcionalidades e resolver bugs :)
 
 Antes de começar, leia nosso [guia de contribuição](CONTRIBUTING.md) para entender como fazemos as mudanças no tema.
 
