@@ -1,14 +1,3 @@
-# Tema do curso Desenvolvedor WordPress
-
-### Welcome!
-Parabéns por completar o curso Desenvolvedor WordPress da Universidade Rock Content! Este repositório tem o tema que desenvolvemos juntos durante o curso e agora precisamos de ajuda para aprimora-lo.
-
-Você vai notar que ele estará um pouco diferente de quando assistiu o video. Isso acontece porque o desenvolvimento do tema será colaborativo! Todo aluno que participou do curso poderá sugerir mudanças e resolver bugs :)
-
-Antes de começar, leia nosso [guia de contribuição](CONTRIBUTING.md) para entender como fazemos as mudanças no tema.
-
-### Instalando
-
 ### Contribuindo
 
 #### Issues
@@ -35,5 +24,3 @@ Utilize-as também para discutir problemas e ideias para o projeto.
     - [_How to Write a Git Commit Message_](https://chris.beams.io/posts/git-commit/)
 - Seja breve e suscinto no título das mensagens do _commit_.
 - Use o corpo da mensagem para explicações adicionais.
-
-
